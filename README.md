@@ -12,6 +12,6 @@ Langauges used : <b>Python, sqllite</b>
 <p>You need to have a way2sms account and specify your login number and password of way2sms in the <i>login_gui.py</i> file.</p>
 <br>
 <b>Screenshots</b><br>
-<img src='Capture1.png' /><br>
-<img src='Capture2.png' /><br>
-<img src='Capture3.jpg' />
+<img src='screenshots/Capture1.PNG' style='width:10%'/><br>
+<img src='screenshots/Capture2.PNG' style='width:10%'/><br>
+<img src='screenshots/Capture3.jpg' style='width:10%'/>
