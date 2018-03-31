@@ -14,4 +14,4 @@ Langauges used : <b>Python, sqllite</b>
 <b>Screenshots</b><br>
 <img src='screenshots/Capture1.PNG' style='width:10%'/><br>
 <img src='screenshots/Capture2.PNG' style='width:10%'/><br>
-<img src='screenshots/Capture3.jpg' style='width:10%'/>
+<img src='screenshots/Capture3.jpeg' style='width:10%'/>
